@@ -61,6 +61,40 @@ cd ./
 - Elasticsearch: `localhost:1201`
 - 后端 API: `http://localhost:8001`
 
+## 演示截图
+
+下面展示 AI Data Analyst 的核心页面和演示结果，方便快速了解项目效果。
+
+### 首页
+<img src="./docs/screenshots/home.png" alt="首页" width="900" />
+
+### 对话页
+<img src="./docs/screenshots/conversation.png" alt="对话页" width="900" />
+
+### 数据库页
+<img src="./docs/screenshots/data.png" alt="数据库页" width="900" />
+
+### 数据集
+<img src="./docs/screenshots/dataset.png" alt="数据集" width="900" />
+
+### 流程日志
+<img src="./docs/screenshots/log1.png" alt="流程日志 1" width="900" />
+<img src="./docs/screenshots/log2.png" alt="流程日志 2" width="900" />
+
+### 分析结果
+<img src="./docs/screenshots/result1.png" alt="分析结果 1" width="900" />
+<img src="./docs/screenshots/result2.png" alt="分析结果 2" width="900" />
+<img src="./docs/screenshots/result21.png" alt="分析结果 21" width="900" />
+<img src="./docs/screenshots/result22.png" alt="分析结果 22" width="900" />
+<img src="./docs/screenshots/result3.png" alt="分析结果 3" width="900" />
+<img src="./docs/screenshots/result4.png" alt="分析结果 4" width="900" />
+<img src="./docs/screenshots/result5.png" alt="分析结果 5" width="900" />
+<img src="./docs/screenshots/result6.png" alt="分析结果 6" width="900" />
+
+### 飞书接入
+<img src="./docs/screenshots/feishu1.png" alt="飞书接入 1" width="900" />
+<img src="./docs/screenshots/feishu2.png" alt="飞书接入 2" width="900" />
+
 ## 数据初始化
 
 如果你想加载比赛演示数据，可以在启动数据库后执行：
