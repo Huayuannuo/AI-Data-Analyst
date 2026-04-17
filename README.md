@@ -142,13 +142,3 @@ python3 scripts/seed_industry_data.py
 - `VITE_API_BASE`
 - `VITE_API_PROXY`
 
-## 提交 GitHub 前建议
-
-- 不要提交真实 `.env`
-- 保留 `.env.example`
-- 排除 `node_modules/`、`dist/`、`__pycache__/` 等构建产物
-- 确认 Git 历史里没有敏感密钥
-
-## 说明
-
-这是一个独立部署的 AI Data Analyst 项目，可以继续在这里单独迭代和发布。
