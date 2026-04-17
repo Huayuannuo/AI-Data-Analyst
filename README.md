@@ -71,7 +71,7 @@ cd ./
 ### 对话页
 <img src="./docs/screenshots/conversation.png" alt="对话页" width="900" />
 
-### 数据库页
+### 流程页
 <img src="./docs/screenshots/data.png" alt="数据库页" width="900" />
 
 ### 数据集
