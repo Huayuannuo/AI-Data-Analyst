@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Node / frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.turbo/
+
+# Environments
+.env
+.env.*
+backend/.env
+frontend/.env
+!*.example
+
+# Logs / temp
+*.log
+*.tmp
+*.bak
+*.bak_*
+
+# OS / editor
+.DS_Store
+**/.DS_Store
+__MACOSX/
+.vscode/
+.idea/
+
+# Build / generated assets
+coverage/
+htmlcov/
+backend/chart.png
+backend/ganzhou_transport_analysis.png
+backend/test/*.png
